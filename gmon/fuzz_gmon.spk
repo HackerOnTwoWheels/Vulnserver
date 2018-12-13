@@ -1,0 +1,3 @@
+s_string("GMON ");
+s_string_variable("COMMAND");
+s_readline();
